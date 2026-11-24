@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: music-dl-tool, downloader, playlists, music, id3, converter, windows, spotify, mp3, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+spotify mp3 downloader playlists music id3 converter windows spotify-playlist-dl music-dl-tool spotify-music-dl windows portable prebuilt x64 free download
+related: spotify, mp3, downloader, playlists, music, id3, converter, windows
